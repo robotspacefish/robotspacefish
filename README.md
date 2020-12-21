@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - [Ghost Trap: My TeenyTiny DragonRuby MiniGameJam Entry](https://dev.to/robotspacefish/ghost-trap-my-teenytiny-dragonruby-minigamejam-entry-5ee6)
 - [C++ Data Types](https://dev.to/robotspacefish/c-data-types-3i69)
 <!-- DEVTO:END -->
+
+---
+![robotspacefish's github stats](https://github-readme-stats.vercel.app/api?username=robotspacefish&count_private=true&theme=dark)
