@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 # Latest Blog posts
 <!-- DEVTO:START -->
 - [C++ Pointers](https://dev.to/robotspacefish/c-pointers-4gck)
