@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 # Latest Blog posts
 <!-- DEVTO:START -->
+- [C++ Pointers](https://dev.to/robotspacefish/c-pointers-4gck)
+- [C++ Header Files](https://dev.to/robotspacefish/c-header-files-1d1l)
+- [C++ Learning by Making an RPG Playground](https://dev.to/robotspacefish/c-learning-by-making-an-rpg-playground-40k)
+- [Ghost Trap: My TeenyTiny DragonRuby MiniGameJam Entry](https://dev.to/robotspacefish/ghost-trap-my-teenytiny-dragonruby-minigamejam-entry-5ee6)
+- [C++ Data Types](https://dev.to/robotspacefish/c-data-types-3i69)
 <!-- DEVTO:END -->
