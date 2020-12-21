@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ---
 ![robotspacefish's github stats](https://github-readme-stats.vercel.app/api?username=robotspacefish&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotspacefish&langs_count=6)](https://github.com/robotspacefish/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotspacefish&langs_count=6&layout=compact)](https://github.com/robotspacefish/github-readme-stats)
