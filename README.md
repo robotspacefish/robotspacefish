@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Jess - aka robotspacefish! 👋
+
+- 🔭 I’m currently working on planning out my next game.
+- 🌱 I’m currently learning everything I can! I've been really into C++ lately.
+- 💬 Ask me about my dogs
 
 <!--
 **robotspacefish/robotspacefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
