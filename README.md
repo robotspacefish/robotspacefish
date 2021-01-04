@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ---
 # Latest Blog posts
 <!-- DEVTO:START -->
+- [Looking Back and Going Forward](https://dev.to/robotspacefish/looking-back-and-going-forward-c3h)
 - [C++ Arrays](https://dev.to/robotspacefish/c-arrays-4fng)
 - [C++ Pointers](https://dev.to/robotspacefish/c-pointers-4gck)
 - [C++ Header Files](https://dev.to/robotspacefish/c-header-files-1d1l)
 - [C++ Learning by Making an RPG Playground](https://dev.to/robotspacefish/c-learning-by-making-an-rpg-playground-40k)
-- [Ghost Trap: My TeenyTiny DragonRuby MiniGameJam Entry](https://dev.to/robotspacefish/ghost-trap-my-teenytiny-dragonruby-minigamejam-entry-5ee6)
 <!-- DEVTO:END -->
 
 ---
