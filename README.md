@@ -1,6 +1,6 @@
 ## Hi, I'm Jess - aka robotspacefish! 👋
 
-- 🔭 I’m currently working on planning out my next game.
+- 🔭 I’m currently working on planning out my next game & overhauling my Rails/React GameTracker app.
 - 🌱 I’m currently learning everything I can! I've been really into C++ lately.
 - 💬 Ask me about my dogs
 
