@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ---
 # Latest Blog posts
 <!-- DEVTO:START -->
+- [C++ Class Basics](https://dev.to/robotspacefish/c-class-basics-4fjc)
 - [C++ Vectors](https://dev.to/robotspacefish/c-vectors-4gmp)
 - [Looking Back and Going Forward](https://dev.to/robotspacefish/looking-back-and-going-forward-c3h)
 - [C++ Arrays](https://dev.to/robotspacefish/c-arrays-4fng)
 - [C++ Pointers](https://dev.to/robotspacefish/c-pointers-4gck)
-- [C++ Header Files](https://dev.to/robotspacefish/c-header-files-1d1l)
 <!-- DEVTO:END -->
 
 ---
