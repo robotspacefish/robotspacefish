@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 # Latest Blog posts
 <!-- DEVTO:START -->
-- [Game Studies: Link's Movement in The Legend of Zelda](https://dev.to/robotspacefish/game-studies-link-s-movement-in-the-legend-of-zelda-48od)
+- [Link's Movement in The Legend of Zelda (Snapping to the Grid)](https://dev.to/robotspacefish/game-studies-link-s-movement-in-the-legend-of-zelda-48od)
 - [C++ Inheritance Basics](https://dev.to/robotspacefish/c-inheritance-basics-14ig)
 - [C++ Class Basics](https://dev.to/robotspacefish/c-class-basics-4fjc)
 - [C++ Vectors](https://dev.to/robotspacefish/c-vectors-4gmp)
