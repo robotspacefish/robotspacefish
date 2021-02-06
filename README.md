@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 # Latest Blog posts
 <!-- DEVTO:START -->
-- [Battletoads - Scrolling Background](https://dev.to/robotspacefish/battletoads-scrolling-background-31kc)
+- [Battletoads Scrolling Background Effect](https://dev.to/robotspacefish/battletoads-scrolling-background-31kc)
 - [Link's Movement in The Legend of Zelda (Snapping to the Grid)](https://dev.to/robotspacefish/game-studies-link-s-movement-in-the-legend-of-zelda-48od)
 - [C++ Inheritance Basics](https://dev.to/robotspacefish/c-inheritance-basics-14ig)
 - [C++ Class Basics](https://dev.to/robotspacefish/c-class-basics-4fjc)
