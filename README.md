@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ---
 # Latest Blog posts
 <!-- DEVTO:START -->
+- [Making an Air Hockey game (I *Thought* This Would Be Easy)](https://dev.to/robotspacefish/making-an-air-hockey-game-i-thought-this-would-be-easy-49io)
 - [Creating the Scrolling Background Effect from Battletoads](https://dev.to/robotspacefish/battletoads-scrolling-background-31kc)
 - [Link's Movement in The Legend of Zelda (Snapping to the Grid)](https://dev.to/robotspacefish/game-studies-link-s-movement-in-the-legend-of-zelda-48od)
 - [C++ Inheritance Basics](https://dev.to/robotspacefish/c-inheritance-basics-14ig)
 - [C++ Class Basics](https://dev.to/robotspacefish/c-class-basics-4fjc)
-- [C++ Vectors](https://dev.to/robotspacefish/c-vectors-4gmp)
 <!-- DEVTO:END -->
 
 ---
