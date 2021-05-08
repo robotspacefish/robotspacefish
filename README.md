@@ -1,10 +1,5 @@
 ## Hi, I'm Jess - aka robotspacefish! 👋
 
-- 🔭 I’m currently working on planning out my next game & overhauling my Rails/React GameTracker app.
-- 🌱 I’m currently learning everything I can! I've been really into C++ lately.
-- 💬 Ask me about my dogs
-
-
 ### Connect with me:
 [<img align="left" alt="robotspacefish.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="robotspacefish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
